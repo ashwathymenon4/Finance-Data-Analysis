@@ -1,5 +1,5 @@
 # Finance-Data-Analysis
-This project focuses on exploratory data analysis of stock prices. The project utilises dummy data.
+This project focuses on exploratory data analysis of stock prices. The project utilises dummy data. All steps and visualization outputs have been added to the **03-Finance Project.ipynb file**.
 
 # Steps
 * **Get the Data** - Use pandas to directly read data from Google finance.
