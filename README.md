@@ -1,4 +1,4 @@
-# Finance-Data-Analysis
+# Finance-Data-Analysis (Python for Data Science and Machine Learning BootCamp Udemy)
 This project focuses on exploratory data analysis of stock prices. The project utilises dummy data. All steps and visualization outputs have been added to the **03-Finance Project.ipynb file**.
 
 # Steps
